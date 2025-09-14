@@ -1,0 +1,2 @@
+Write a program to find the longest substring without repeating characters. Input: "abcabcdbb", Output: "abcd", maxWindow: 4
+Find first and last occurrence of an element in a sorted array, Input: arr[] = {1,2,5,5,5,5,5,5,8}, target = 5, Output: First occurrence = 2, Last occurrence = 7
