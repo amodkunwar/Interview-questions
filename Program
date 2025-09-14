@@ -3,3 +3,4 @@ Find first and last occurrence of an element in a sorted array, Input: arr[] = {
 Write a program to print the elements of a 2D array in spiral form. Input: [[1,2,3],[4,5,6],[7,8,9]] Output: 1 2 3 6 9 8 7 4 5
 Write a program to print the elements of a transform of matrix. Input : matrix = [[1,2,3],[4,5,6],[7,8,9]] Output : 1 2 3 6 9 8 7 4
 Write a program to rotate a matrix by 90 degree. Input: [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]], Output: [[13,9,5,1],[14,10,6,2],[15,11,7,3],[16,12,8,4]]
+Write a program to find the majority element in an array, Majority element is the element that appears more than n/2 times in the array. You can assume that the array is non-empty and the majority element always exists in the array. Input: [2,2,1,1,1,2,2] Output: 2
