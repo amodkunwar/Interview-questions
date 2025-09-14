@@ -2,3 +2,4 @@ Write a program to find the longest substring without repeating characters. Inpu
 Find first and last occurrence of an element in a sorted array, Input: arr[] = {1,2,5,5,5,5,5,5,8}, target = 5, Output: First occurrence = 2, Last occurrence = 7
 Write a program to print the elements of a 2D array in spiral form. Input: [[1,2,3],[4,5,6],[7,8,9]] Output: 1 2 3 6 9 8 7 4 5
 Write a program to print the elements of a transform of matrix. Input : matrix = [[1,2,3],[4,5,6],[7,8,9]] Output : 1 2 3 6 9 8 7 4
+Write a program to rotate a matrix by 90 degree. Input: [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]], Output: [[13,9,5,1],[14,10,6,2],[15,11,7,3],[16,12,8,4]]
