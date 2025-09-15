@@ -8,4 +8,5 @@ Write a program to find all unique triplets in the array which gives the sum of 
 Reverse a string in java 8 and normaml.
 Reverse a word in string in java 8 and normal.
 Count the occurance of String, Input: hello world hello. Ouput: hello->2 world->1
+Minimum Size Subarray Sum. Input: target = 7, nums = [2,3,1,2,4,3]
 
