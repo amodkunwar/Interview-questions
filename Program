@@ -9,4 +9,4 @@ Reverse a string in java 8 and normaml.
 Reverse a word in string in java 8 and normal.
 Count the occurance of String, Input: hello world hello. Ouput: hello->2 world->1
 Minimum Size Subarray Sum. Input: target = 7, nums = [2,3,1,2,4,3]
-
+Longest Substring Without Repeating Characters. Input: s = "abcabcdbb" Output: 4 Explanation: The answer is "abcd", with the length of 4.
